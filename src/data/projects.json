@@ -1,11 +1,11 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Personal Website - imrozwahid.com",
+      "imageSrc": "projects/portfolio.png",
+      "description": "Developed a responsive personal portfolio website using React, JavaScript, and CSS, featuring animations to enhance user experience and effectively showcase projects and skills.",
+      "skills": ["React", "JavaScript", "CSS", "MySQL"],
+      "demo": "https://www.imrozwahid.com",
+      "source": "https://github.com/iwahid7025/imrozwahid.com"
     },
     {
       "title": "Project B",

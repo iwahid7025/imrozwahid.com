@@ -3,7 +3,7 @@
       "role": "Software Developer in Test",
       "organisation": "BlackBerry",
       "startDate": "2022",
-      "endDate": "Present",
+      "endDate": "2024",
       "experiences": [
         "Lead software tester for packaging structure and camera components on BlackBerry IVY In-Vehicle Platform, performing full feature and regression test cycles for 5 IVY product releases on Linux and QNX platforms.", 
         "Designed an in-vehicle Android app in Java (Android Studio) to retrieve insights via an Android bridge, and programmed C++ data connectors to provide sensor and camera data to a Python-based synthetic sensor.",
