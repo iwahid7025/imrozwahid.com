@@ -1,2 +1,2 @@
 # imrozwahid.com
-Personal portfolio website designed using React, JavaScript, and CSS
+Designed a personal portfolio website using React, JavaScript, and CSS.
