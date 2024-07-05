@@ -1,0 +1,36 @@
+[
+    {
+      "role": "Software Developer in Test",
+      "organisation": "BlackBerry",
+      "startDate": "2022",
+      "endDate": "Present",
+      "experiences": [
+        "Lead software tester for packaging structure and camera components on BlackBerry IVY In-Vehicle Platform, performing full feature and regression test cycles for 5 IVY product releases on Linux and QNX platforms.", 
+        "Designed an in-vehicle Android app in Java (Android Studio) to retrieve insights via an Android bridge, and programmed C++ data connectors to provide sensor and camera data to a Python-based synthetic sensor.",
+        "Automated 70% of test cases with Python, halving time bandwidth, and managed automation pipelines and code reviews in GitLab."
+      ],
+      "imageSrc": "history/blackberry.png"
+    },
+    {
+      "role": "R&D Engineer",
+      "organisation": "Napoleon",
+      "startDate": "2020",
+      "endDate": "2021",
+      "experiences": [
+        "Developed a prototype for a variable heating element using C on Arduino, reducing in-rush current by over 90%.", 
+        "Programmed and prototyped a driver for an LED matrix panel on a Linux-based Raspberry Pi, enabling a noiseless electric fireplace."
+      ],
+      "imageSrc": "history/napoleon.png"
+    },
+    {
+      "role": "Software Test Engineer",
+      "organisation": "Tantalus Systems Corp",
+      "startDate": "2018",
+      "endDate": "2019",
+      "experiences": [
+        "Designed and modified test plans for device verification tests, reducing application bugs by 25%.",
+        "Developed a user interface for device testing software using C# on the Visual Studio .NET framework."
+      ],
+      "imageSrc": "history/tantalus.png"
+    }
+  ]
