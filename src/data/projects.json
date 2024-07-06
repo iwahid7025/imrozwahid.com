@@ -16,11 +16,11 @@
       "source": "https://github.com/iwahid7025/Stone-World-RPG-Game"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "title": "ByteBot (Deep Learning Chatbot)",
+      "imageSrc": "projects/bytebot.png",
+      "description": "Developed a deep learning chatbot with Python and TensorFlow, leveraging advanced natural language processing capabilities.",
+      "skills": ["Python", "TensorFlow"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/iwahid7025/ByteBot"
     }
 ]
