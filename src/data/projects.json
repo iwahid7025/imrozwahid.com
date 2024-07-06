@@ -8,12 +8,12 @@
       "source": "https://github.com/iwahid7025/imrozwahid.com"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Stone World RPG (Unity Game)",
+      "imageSrc": "projects/stoneworld.png",
+      "description": "Developed an RPG game in Unity using C#, incorporating smooth character animations and advanced interaction for NPCs.",
+      "skills": ["Unity", "C#.NET", "Visual Studio"],
+      "demo": "https://iwahid7025.itch.io/stone-world-rpg",
+      "source": "https://github.com/iwahid7025/Stone-World-RPG-Game"
     },
     {
       "title": "Project C",
